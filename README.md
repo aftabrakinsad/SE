@@ -1,3 +1,3 @@
 # SE
 Academic Course
-<h2>To open Project UI files, use: Evolus Pencil Software</h2>
+<h2>To open Project UI files, use: Pencil Software</h2>
