@@ -9,7 +9,7 @@
   </tr>
   
   <tr>
-  <th colspan="2">Course Teacher: <a href="https://cs.aiub.edu/profile/siyamul">MD. SIYAMUL ISLAM</a></th>
+  <th colspan="2">Course Teacher: <a href="https://cs.aiub.edu/profile/taimur.ahad#:~:text=Biography-,Dr.,business%20agility%20using%20digital%20technology.">DR. TAIMUR AHAD</a></th>
   </tr>
   
   <tr>
